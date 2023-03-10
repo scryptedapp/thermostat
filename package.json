@@ -32,7 +32,7 @@
       ],
       "type": "Thermostat"
    },
-   "devDependencies": {
-   },
-   "dependencies": {}
+   "dependencies": {
+      "@scrypted/sdk": "^0.2.84"
+   }
 }
